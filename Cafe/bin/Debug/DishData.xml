@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<DishData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dishes>
+    <Dish>
+      <Name>12312</Name>
+      <Price>2</Price>
+      <CookingTime>3</CookingTime>
+    </Dish>
+  </Dishes>
+  <FileName>DishData</FileName>
+</DishData>
